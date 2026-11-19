@@ -1,7 +1,9 @@
 import "./App.css";
 
+import TripBudget from "./TripBudget/TripBudget"
+
 function App() {
-  return <></>;
+  return <TripBudget/>;
 }
 
 export default App;
